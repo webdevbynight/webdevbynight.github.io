@@ -10,4 +10,4 @@ The purpose of these pages is to host the visual result of some of my repositori
 
 ## Slides
 
-- [wcs-remote-fr-feb-2023-from-pixel-to-rem](/wcs-remote-fr-feb-2023-from-pixel-to-rem/)
+- [From pixel to rem](https://webdevbynight.github.io/wcs-remote-fr-feb-2023-from-pixel-to-rem/)
