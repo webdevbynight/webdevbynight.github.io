@@ -9,6 +9,7 @@ The purpose of these pages is to host the visual result of some of [my repositor
 - [3-column-preview-card-component-main](/3-column-preview-card-component-main/)
 - [four-card-feature-section-master](/four-card-feature-section-master/)
 - [faq-accordion-card-main](/faq-accordion-card-main/)
+- [interactive-rating-component-main](/interactive-rating-component-main/)
 
 ## Slides
 
