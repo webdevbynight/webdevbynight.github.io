@@ -4,12 +4,12 @@ The purpose of these pages is to host the visual result of some of [my repositor
 
 ## Frontend Mentor challenges
 
-- [single-price-grid-component-master](single-price-grid-component-master/)
-- [social-proof-section-master](social-proof-section-master/)
-- [3-column-preview-card-component-main](/3-column-preview-card-component-main/)
-- [four-card-feature-section-master](/four-card-feature-section-master/)
-- [faq-accordion-card-main](/faq-accordion-card-main/)
-- [interactive-rating-component-main](/interactive-rating-component-main/)
+- [Single Price Grid Component](single-price-grid-component-master/) ([repository](https://github.com/webdevbynight/single-price-grid-component-master))
+- [Social proof section](social-proof-section-master/) ([repository](https://github.com/webdevbynight/social-proof-section-master))
+- [3-column preview card component](/3-column-preview-card-component-main/) ([repository](https://github.com/webdevbynight/3-column-preview-card-component-main))
+- [Four-card feature section](/four-card-feature-section-master/) ([repository](https://github.com/webdevbynight/four-card-feature-section-master))
+- [FAQ Accordion Card](/faq-accordion-card-main/) ([repository](https://github.com/webdevbynight/faq-accordion-card-main))
+- [Interactive rating component](/interactive-rating-component-main/) ([repository](https://github.com/webdevbynight/interactive-rating-component-main))
 
 ## Slides
 
