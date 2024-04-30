@@ -13,6 +13,10 @@ The purpose of these pages is to host the visual result of some of [my repositor
 - [Space tourism website](/space-tourism-website/) ([repository](https://github.com/webdevbynight/space-tourism-website))
 - [QR code component](/qr-code-component-main/) ([repository](https://github.com/webdevbynight/qr-code-component-main))
 
+## React-based repositories
+
+- [Easter Date](/easter-date/) ([repository](https://github.com/webdevbynight/easter-date))
+
 ## Slides
 
 - [From pixel to rem](/wcs-remote-fr-feb-2023-from-pixel-to-rem/)
