@@ -12,6 +12,7 @@ The purpose of these pages is to host the visual result of some of [my repositor
 - [Interactive rating component](/interactive-rating-component-main/) ([repository](https://github.com/webdevbynight/interactive-rating-component-main))
 - [Space tourism website](/space-tourism-website/) ([repository](https://github.com/webdevbynight/space-tourism-website))
 - [QR code component](/qr-code-component-main/) ([repository](https://github.com/webdevbynight/qr-code-component-main))
+- [Blog preview card](/blog-preview-card-main/) ([repository](https://github.com/webdevbynight/blog-preview-card-main))
 
 ## React-based repositories
 
