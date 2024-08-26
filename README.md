@@ -14,6 +14,7 @@ The purpose of these pages is to host the visual result of some of [my repositor
 - [QR code component](/qr-code-component-main/) ([repository](https://github.com/webdevbynight/qr-code-component-main))
 - [Blog preview card](/blog-preview-card-main/) ([repository](https://github.com/webdevbynight/blog-preview-card-main))
 - [Social links profile](/social-links-profile-main/) ([repository](https://github.com/webdevbynight/social-links-profile-main))
+- [Recipe page](/recipe-page-main/) ([repository](https://github.com/webdevbynight/recipe-page-main))
 
 ## React-based repositories
 
