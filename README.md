@@ -17,6 +17,7 @@ The purpose of these pages is to host the visual result of some of [my repositor
 - [Recipe page](/recipe-page-main/) ([repository](https://github.com/webdevbynight/recipe-page-main))
 - [Product preview card component](/product-preview-card-component-main/) ([repository](https://github.com/webdevbynight/product-preview-card-component-main))
 - [Testimonials grid section](/testimonials-grid-section-main/) ([repository](https://github.com/webdevbynight/testimonials-grid-section-main))
+- [Meet landing page](/meet-landing-page/) ([repository](https://github.com/webdevbynight/meet-landing-page))
 
 ## React-based repositories
 
