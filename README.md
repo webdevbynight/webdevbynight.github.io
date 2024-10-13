@@ -19,6 +19,7 @@ The purpose of these pages is to host the visual result of some of [my repositor
 - [Testimonials grid section](/testimonials-grid-section-main/) ([repository](https://github.com/webdevbynight/testimonials-grid-section-main))
 - [Meet landing page](/meet-landing-page/) ([repository](https://github.com/webdevbynight/meet-landing-page))
 - [Article preview component](/article-preview-component-master/) ([repository](https://github.com/webdevbynight/article-preview-component-master))
+- [Newsletter sign-up with success message](/newsletter-sign-up-with-success-message-main/) ([repository](https://github.com/webdevbynight/newsletter-sign-up-with-success-message-main))
 
 ## React-based repositories
 
