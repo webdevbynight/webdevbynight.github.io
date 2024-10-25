@@ -22,6 +22,7 @@ The purpose of these pages is to host the visual result of some of [my repositor
 - [Newsletter sign-up with success message](/newsletter-sign-up-with-success-message-main/) ([repository](https://github.com/webdevbynight/newsletter-sign-up-with-success-message-main))
 - [Time tracking dashboard](/time-tracking-dashboard-main/) ([repository](https://github.com/webdevbynight/time-tracking-dashboard-main))
 - [Tip calculator app](/tip-calculator-app-main/) ([repository](https://github.com/webdevbynight/tip-calculator-app-main/))
+- [In-browser markdown editor](/in-browser-markdown-editor/) ([repository](https://github.com/webdevbynight/in-browser-markdown-editor))
 
 ## React-based repositories
 
