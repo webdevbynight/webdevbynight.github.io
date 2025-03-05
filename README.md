@@ -27,6 +27,7 @@ The purpose of these pages is to host the visual result of some of [my repositor
 - [NFT preview card component](/nft-preview-card-component-main/) ([repository](https://github.com/webdevbynight/nft-preview-card-component-main))
 - [Contact form](/contact-form-main/) ([repository](https://github.com/webdevbynight/contact-form-main))
 - [News homepage](/news-homepage-main/) ([repository](https://github.com/webdevbynight/news-homepage-main))
+- [Loopstudios landing page](/loopstudios-landing-page-main/) ([repository](https://github.com/webdevbynight/loopstudios-landing-page-main))
 
 ## React-based repositories
 
