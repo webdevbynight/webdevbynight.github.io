@@ -28,6 +28,7 @@ The purpose of these pages is to host the visual result of some of [my repositor
 - [Contact form](/contact-form-main/) ([repository](https://github.com/webdevbynight/contact-form-main))
 - [News homepage](/news-homepage-main/) ([repository](https://github.com/webdevbynight/news-homepage-main))
 - [Loopstudios landing page](/loopstudios-landing-page-main/) ([repository](https://github.com/webdevbynight/loopstudios-landing-page-main))
+- [Password generator app](/password-generator-app/) ([repository](https://github.com/webdevbynight/password-generator-app))
 
 ## React-based repositories
 
