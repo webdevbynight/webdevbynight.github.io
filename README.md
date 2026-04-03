@@ -30,6 +30,7 @@ The purpose of these pages is to host the visual result of some of [my repositor
 - [Loopstudios landing page](/loopstudios-landing-page-main/) ([repository](https://github.com/webdevbynight/loopstudios-landing-page-main))
 - [Password generator app](/password-generator-app/) ([repository](https://github.com/webdevbynight/password-generator-app))
 - [Frontend quiz app](/frontend-quiz-app/) ([repository](https://github.com/webdevbynight/frontend-quiz-app))
+- [Ecommerce product page](/ecommerce-product-page-main/) ([repository](https://github.com/webdevbynight/ecommerce-product-page-main))
 
 ## React-based repositories
 
